@@ -3,7 +3,7 @@ Sparks Foundation Web Development Internship Project : Basic Banking System webs
 A web application used for basic banking transactions
 
 ## The website has the following specification and  -
-Scripting languages:HTML, CSS, Javascript
+Scripting languages:HTML, CSS, Javascript , C#
 Backend : SQL
 Framework :MVC
 Other Language :ASP.NET
